@@ -1,0 +1,10 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public enum Layers
+{
+    Player = 8,
+    Ground = 9
+}
+
